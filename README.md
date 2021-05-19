@@ -6,7 +6,7 @@
 
 © 2021 by SM0RUX Pontus Falk
 
-Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d578uv/blob/master/LICENSE).
+Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/at-d878uvii/blob/master/LICENSE).
 
 ## Syfte
 
